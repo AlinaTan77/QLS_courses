@@ -1,0 +1,55 @@
+,"Evaluation: N/A = not applicable, 0 = useless, 1 = poor, 2 = meh, 3 = satisfactory, 4 = good, 5 = excellent (realistic best practice under the circumstances of the research)",,,,,,,,,,,
+,,,,,Criteria used for critique,,,,,Total Score ,,
+,Title of article,Date published,Link to article,Student name ,Data availability and accessibility ,Quality of experimental design,Description of methods,Description of sample population/data under study, Tool accessibility ,Replicability ,Reproducibility ,Notes
+,,,,,"Key words: confidentiality, legal, intellectual property","Key words: blinding, consistency, randomization, sample size, appropriateness of statistical analyses","Key words: temporal and geographical descriptions (e.g. changes in covid variants), protocol, transparency","Key words: diversity, representativeness","Key words: software versions, expensive equipment",,,
+1,Cartography of opportunistic pathogens and antibiotic resistance genes in a tertiary hospital environment,2020,https://doi.org/10.1038/s41591-020-0894-4,Monica Cella,5,4,5,4,5,N/A (?),5,"Add column for Journal name? How good is the literature review in the introduction? ""Quality of experimental design"" and ""Description of methods"" kind of overlap - merge? I think we should remove any mention of cost of equipment, that is a barrier to equity in research not reproducibility/replicability (discussion for another day).  This paper is difficult to replicate because it is location and time specific (environmental surveillance) "
+2,Linking the resistome and plasmidome to the microbiome,2019,https://www.nature.com/articles/s41396-019-0446-4,Monica Cella,4,1,1,0,3,N/A (?),1,How far-reaching are conclusions and is evidence provided to support these statements? Are too many assumptions made to reach a conclusion? This particular paper is difficult to replicate because it is location and time specific (and poorly designed)
+3,,,,Monica Cella,,,,,,,,
+4,,,,Monica Cella,,,,,,,,
+5,,,,Monica Cella,,,,,,,,
+6,Human genetics evidence supports two-thirds of the 2021 FDA-approved drugs,2022,https://doi.org/10.1038/d41573-022-00120-3,Alina Tan,4,5,4,5,5,N/A (?),5,"This paper is easy to read and reproduce. Codes are available. However, the data is hard to find, you need to use Google Storage to use the original code. Otherwise, you have to find the data source by yourself, which is time-consuming."
+7,An effector index to predict target genes at GWAS loci,2021,https://doi.org/10.1007/s00439-022-02434-z,Alina Tan,5,4,4,4,4,3,5,"The code and data can be found in the original paper, the method is described clearly. The results obtained from the data are slightly different from the paper"
+8,,,,Alina Tan,,,,,,,,
+9,,,,Alina Tan,,,,,,,,
+10,,,,Alina Tan,,,,,,,,
+11,Organizing principles of astrocytic nanoarchitecture in the mouse cerebral cortex,2023,https://doi.org/10.1016/j.cub.2023.01.043 ,Megan Ng,4,5,5,5,5,?,?,"Was an easy read. Methodology and materials clearly described. Great ""key resources"" table.  However, a request must be made to the ""lead contact"" to access datasets generated. This may be inconvenient and/or time consuming. "
+12,Glycogen distribution in mouse hippocampus,2019,https://doi.org/10.1002/jnr.24386,Megan Ng,1,3,2,2,2,?,?,Qualitative study with minimal detail and inaccesible equipment. 
+13,,,,Megan Ng,,,,,,,,
+14,,,,Megan Ng,,,,,,,,
+15,Coenzyme Q10 trapping in mitochondrial complex I underlies Leber’s hereditary optic neuropathy,2023,https://doi.org/10.1073/pnas.2304884120,Ryan Huang,5,4,3,N/A,5,N/A (?),5,"This is a molecular dynamics simulation study that publishes all its data and codes in an online repository. However, the actual steps performed in the simulation were not described in detail in the paper."
+16,The morphology of an infarct in nonarteritic anterior ischemic optic neuropathy,2003,https://doi.org/10.1016/S0161-6420(03)00804-2,Ryan Huang,3,3,5,1,3,3,3,"This is a pathology examination study which is based on only one patient. It is difficult to replicate since it is very hard to obtain  such patient samples. However, the pathological examination protocol was well-described in the paper."
+17,,,,Ryan Huang,,,,,,,,
+18,,,,Ryan Huang,,,,,,,,
+19,,,,Ryan Huang,,,,,,,,
+20,"Single-molecule tracking reveals the functional allocation, in vivo interactions, and spatial organization of universal transcription factor NusG",2024,https://doi.org/10.1016/j.molcel.2024.01.025,Lydia Hodgins,5,5,5,4,3,?,?,I left evaluating quality of experimental desing until the end because I felt that the points I was going to make in it fit better in the next three categories. When I returned to it I mostly reiterated the points I had made previously. I am also not sure how we are deciding the values to put int the replicability and reproducibility category - is it an average of the blue columns or just a general observation?
+21,Single molecule microscopy reveals key physical features of repair foci in living cells ,2021,https://doi.org/10.7554/eLife.60577,Lydia Hodgins,5,4,4,5,1,?,?,
+22,,,,Lydia Hodgins,,,,,,,,
+23,,,,Lydia Hodgins,,,,,,,,
+24,,,,Lydia Hodgins,,,,,,,,
+25,Cancer Cell Membrane-Coated Nanoparticles for Anticancer Vaccination and Drug Delivery,2014,https://pubs.acs.org/doi/full/10.1021/nl500618u,Ioan Duchastel,2,5,5,4,4,N/A (?),4,"Qualitative study with a lot of details on the experimental procedure, to the reagents used in every steps to the tools used in the experiment. Not 5/5 as some of the tools used are expensive but not a big deal. Image analysis can be done on open source software so overall pretty thorough and good study to follow"
+26,Effective cancer targeting and imaging using macrophage membranecamouflaged upconversion nanoparticles,2016,https://onlinelibrary.wiley.com/doi/abs/10.1002/jbm.a.35927,Ioan Duchastel,2,4,3,5,4,N/A (?),4,"Qualitative study with a decent amount of detail, methods are just enough for this paper, you can still access them through other related papers (which seems to be to get more citations than anything) but reagent concentrations are severely lacking, making it quite difficult to reproduce."
+27,,,,Ioan,,,,,,,,
+28,,,,Ioan,,,,,,,,
+29,,,,Ioan,,,,,,,,
+30,,,,,,,,,,,,
+31,,,,,,,,,,,,
+32,,,,,,,,,,,,
+33,,,,,,,,,,,,
+34,,,,,,,,,,,,
+35,,,,,,,,,,,,
+36,,,,,,,,,,,,
+37,,,,,,,,,,,,
+38,,,,,,,,,,,,
+39,,,,,,,,,,,,
+40,,,,,,,,,,,,
+41,,,,,,,,,,,,
+42,,,,,,,,,,,,
+43,,,,,,,,,,,,
+44,,,,,,,,,,,,
+45,,,,,,,,,,,,
+46,,,,,,,,,,,,
+47,,,,,,,,,,,,
+48,,,,,,,,,,,,
+49,,,,,,,,,,,,
+50,,,,,,,,,,,,
+,,,,,,,,,,,,
